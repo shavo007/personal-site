@@ -38,3 +38,7 @@ url = "http://blog.shanelee.name"
   background_color_class = "bg-black"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   recent_posts_number = 2
+
+# [params.adsense]
+# client = "ca-pub-12345"
+# inArticleSlot = "12345"
