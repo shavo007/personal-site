@@ -17,3 +17,10 @@ https://help.github.com/en/articles/custom-domain-redirects-for-github-pages-sit
 dig www.shanelee.name +nostats +nocomments +nocmd
 dig +noall +answer shanelee.name
 
+## Git
+
+```bash
+git submodule update --init --recursive
+git submodule update --recursive
+```
+

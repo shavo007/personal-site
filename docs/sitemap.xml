@@ -9,7 +9,8 @@
   
   <url>
     <loc>https://shanelee.name/</loc>
-    <priority>0</priority>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
   </url>
   
   <url>
