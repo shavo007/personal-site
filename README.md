@@ -22,5 +22,6 @@ dig +noall +answer shanelee.name
 ```bash
 git submodule update --init --recursive
 git submodule update --recursive
+git submodule update --remote --merge
 ```
 
